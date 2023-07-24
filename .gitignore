@@ -72,4 +72,5 @@ crashlytics-build.properties
 /[Aa]ssets/[Ss]treamingAssets/aa/*
 
 /Assets/Real Stars Skybox/StarSkybox04/CubemapStars.cubemap
-Assets/Real Stars Skybox/StarSkybox04NamedConstell/CubemapStarsNamedConstellations.cubemap
+/File Assets/Real Stars Skybox/StarSkybox04Named/CubemapStarsNamed.cubemap
+/Assets/Real Stars Skybox/StarSkybox04NamedConstell/CubemapStarsNamedConstellations.cubemap
