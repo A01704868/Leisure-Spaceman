@@ -1,7 +1,5 @@
 # Leisure-Spaceman
 Este repositorio es para el proyecto final de la materia de Gráficas Computacionales
-<<<<<<< HEAD
-=======
 
 Descripción del proyecto
 
@@ -15,4 +13,3 @@ La fuente de luz es un sol que igualmente está ahí en 3D. La luna se mueve alr
 
 La escena más o menos se ve así
 ![image](https://github.com/A01704868/Leisure-Spaceman/assets/78516893/20872281-ed42-4aac-a4be-7139093b1b97)
->>>>>>> 81ac65aa0a5edae80d6322b5ce7e98c6482b98e7
