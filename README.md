@@ -28,6 +28,7 @@ Aquí esta el enlace a un video del proyecto
 https://youtu.be/edFF1y0Rync
 
 Referencias
+
 Texturas del planeta tierra y la luna
 MokTechGD. (2020, February 7). Solar system simulation [unity 3D tutorial]. YouTube. https://www.youtube.com/watch?v=2fGL1QWMdqc 
 Shader del Sol
