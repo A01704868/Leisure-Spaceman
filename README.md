@@ -30,12 +30,21 @@ https://youtu.be/edFF1y0Rync
 Referencias
 
 Texturas del planeta tierra y la luna
+
 MokTechGD. (2020, February 7). Solar system simulation [unity 3D tutorial]. YouTube. https://www.youtube.com/watch?v=2fGL1QWMdqc 
+
 Shader del Sol
+
 Coderious. (2021a, June 16). Unity tutorial - make a star in shader graph. YouTube. https://www.youtube.com/watch?v=ykwvCCqdcCs
+
 Mechanica de Newton
-Coderious. (2021b, June 18). Unity Tutorial - Solar System With Unity physics. YouTube. https://www.youtube.com/watch?v=kUXskc76ud8 
+
+Coderious. (2021b, June 18). Unity Tutorial - Solar System With Unity physics. YouTube. https://www.youtube.com/watch?v=kUXskc76ud8
+
 Control del mouse
+
 Unity3D School. (2020, July 4). Control your camera to look around using mouse in Unity. YouTube. https://www.youtube.com/watch?v=W70n_bXp7Dc 
+
 Control de la camara
+
 Chesnutcase, chesnutcasechesnutcase&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 50022 gold badges77 silver badges2020 bronze badges, user2423014user2423014, Sourav KondapakaSourav Kondapaka&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 5311 silver badge33 bronze badges, DilmerDilmer&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 16988 bronze badges, Reaz MurshedReaz Murshed&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 23.6k1313 gold badges7878 silver badges9696 bronze badges, NabeelSaleemNabeelSaleem&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 86911 gold badge88 silver badges1414 bronze badges, &amp; SkizzSkizz&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 69.6k1010 gold badges7070 silver badges108108 bronze badges. (1958, November 1). How do I make a camera follow an object in UNITY3D C#?. Stack Overflow. https://stackoverflow.com/questions/10752435/how-do-i-make-a-camera-follow-an-object-in-unity3d-c 
